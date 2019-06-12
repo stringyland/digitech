@@ -9,9 +9,9 @@ Codepen is a website where you can try out bits of code without having to build 
 * A secret message: https://codepen.io/mandymichael/pen/ZvJWeZ
 
 ## Look at code on sites you like
-* Go to a website you like
-* Click the F12 key (you might need to hold down the function key to make it work)
-* Click the Inspector tab
+1. Go to a website you like
+2. Click the F12 key (you might need to hold down the function key to make it work)
+3. Click the Inspector tab
 
 ## Try some accessibility features
 * Go to [this news website](https://thewest.com.au/) and try to navigate the page using only the keyboard, no mouse or trackpad.
