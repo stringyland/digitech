@@ -4,9 +4,9 @@ Links and things to try
 ## Demos 
 Codepen is a website where you can try out bits of code without having to build a whole website
 
-My demonstration site: https://codepen.io/stringyland/pen/PrwdzQ Try changing the text and colours.
-Chill the Lion: https://codepen.io/Yakudoo/pen/YXxmYR 
-A secret message: https://codepen.io/mandymichael/pen/ZvJWeZ
+* My demonstration site: https://codepen.io/stringyland/pen/PrwdzQ Try changing the text and colours.
+* Chill the Lion: https://codepen.io/Yakudoo/pen/YXxmYR 
+* A secret message: https://codepen.io/mandymichael/pen/ZvJWeZ
 
 ## Look at code on sites you like
 * Go to a website you like
